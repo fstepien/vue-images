@@ -1,5 +1,7 @@
 # images
 
+![](https://meta.filipstepien.com/image.gif)
+
 ## Project setup
 ```
 yarn install
